@@ -7,4 +7,4 @@ Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatur
 5:       escreva o resultado 
 6: senão:
 7:       resultado = (temperatura - 32)/1.8
-8:       escreva o resultado 
+8:       escreva o resultado
